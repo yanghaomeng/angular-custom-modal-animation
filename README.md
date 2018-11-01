@@ -1,4 +1,4 @@
-# ionic modal弹出方式单一，自定义弹入弹出动画
+# ionic modal弹出方式单一，自定义弹入消失动画
 
 ## 自定义enterAnimation和leaveAnimation,其他弹窗同理
 
